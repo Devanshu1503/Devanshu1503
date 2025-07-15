@@ -2,7 +2,7 @@
 
 I'm a Master's student in Applied Data Science at the University of Chicago and a recent graduate of Virginia Tech with dual degrees in Computer Science and Computational Modeling & Data Analytics.
 
-I'm passionate about solving real-world problems using AI, data engineering, and full-stack development. My work spans from machine learning dashboards to large-scale web scrapers and performance testing tools.
+My passion lies in software development, data analytics, and cloud technologies, where I combine my technical expertise with problem-solving skills to create impactful solutions. Currently, I’m seeking Software Engineer, Data Analyst, Business Analyst, Solutions Architect roles where I can apply my skills in Python, Java, AWS, Azure and data-driven decision-making.
 
 ---
 

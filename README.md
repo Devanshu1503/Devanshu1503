@@ -8,9 +8,9 @@ I'm passionate about solving real-world problems using AI, data engineering, and
 
 ## 🔧 Featured Projects
 
-- 🚗 [Crash Rate Prediction](https://github.com/devanshukhadka/traffic-crash-predictor): Full-stack web app to predict crash rates using TensorFlow, FastAPI, and React.
-- 🕊️ [AI Web Scraper for Parish Data](https://github.com/devanshukhadka/ai-web-scraper): ETL + LLM-powered scraper with Power BI dashboards for Catholic Leadership Institute.
-- 🌍 [Landslide Prediction](https://github.com/devanshukhadka/landslide-prediction-tree-models): Tree-based classification model to predict landslide-prone regions using NASA GLC data.
+- 🚗 [Crash Rate Prediction](https://github.com/Devanshu1503/traffic-crash-predictor): Full-stack web app to predict crash rates using TensorFlow, FastAPI, and React.
+- 🕊️ [AI Web Scraper for Parish Data](https://github.com/Devanshu1503/ai-web-scraper): ETL + LLM-powered scraper with Power BI dashboards for Catholic Leadership Institute.
+- 🌍 [Landslide Prediction](https://github.com/Devanshu1503/landslide-prediction-tree-models): Tree-based classification model to predict landslide-prone regions using NASA GLC data.
 
 ---
 

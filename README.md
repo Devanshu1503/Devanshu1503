@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Devanshu Khadka
 
-I'm a Master's student in Applied Data Science at the University of Chicago and a recent graduate of Virginia Tech with dual degrees in Computer Science and Computational Modeling & Data Analytics.
+I'm a Master's student in Applied Data Science at the University of Chicago and a recent graduate of Virginia Tech, where I earned dual degrees in Computer Science and Computational Modeling & Data Analytics.
 
-My passion lies in software development, data analytics, and cloud technologies, where I combine my technical expertise with problem-solving skills to create impactful solutions. Currently, I’m seeking Software Engineer, Data Analyst, Business Analyst, Solutions Architect roles where I can apply my skills in Python, Java, AWS, Azure and data-driven decision-making.
+My passion lies in software development, data analytics, and cloud technologies, where I combine technical depth with real-world problem-solving. I've worked on full-stack applications, end-to-end AI pipelines, and large-scale data scraping projects across academic, research, and internship settings.
+
+📫 **Actively seeking Summer 2026 internships** and full-time roles in Software Engineering, Data Analytics, or Cloud Architecture — [View my resume](https://github.com/Devanshu_Resume_ucicago.pdf) 
 
 ---
-
 ## 🔧 Featured Projects
 
 - 🚗 [Crash Rate Prediction](https://github.com/Devanshu1503/traffic-crash-predictor): Full-stack web app to predict crash rates using TensorFlow, FastAPI, and React.

@@ -9,6 +9,8 @@ My passion lies in software development, data analytics, and cloud technologies,
 ---
 ## 🔧 Featured Projects
 
+- 🏥 [**ER Wait Time Forecasting**](https://github.com/Devanshu1503/ER_Wait_Time_predictor):  
+  Time series forecasting model for EMS dispatch wait times using XGBoost and NYC Open Data. Focused on healthcare analytics and model explainability.
 - 🚗 [Crash Rate Prediction](https://github.com/Devanshu1503/traffic-crash-predictor): Full-stack web app to predict crash rates using TensorFlow, FastAPI, and React.
 - 🕊️ [AI Web Scraper for Parish Data](https://github.com/Devanshu1503/ai-web-scraper): ETL + LLM-powered scraper with Power BI dashboards for Catholic Leadership Institute.
 - 🌍 [Landslide Prediction](https://github.com/Devanshu1503/landslide-prediction-tree-models): Tree-based classification model to predict landslide-prone regions using NASA GLC data.
@@ -17,17 +19,16 @@ My passion lies in software development, data analytics, and cloud technologies,
 
 ## 💻 Technical Skills
 
-**Languages**: Python, R, Java, SQL, HTML/CSS, JavaScript, C, MATLAB  
-**Frameworks & Tools**: TensorFlow, FastAPI, React, Playwright, BeautifulSoup, Power BI, Docker, Git  
-**Cloud**: AWS (S3, ECS, SageMaker), Azure  
+**Languages**: Python, Java, R, SQL, JavaScript, C, MATLAB, HTML/CSS  
+**Frameworks & Tools**: TensorFlow, FastAPI, React, XGBoost, BeautifulSoup, Power BI, Docker, Git  
+**Cloud & MLOps**: AWS (S3, ECS, SageMaker, Lambda), Azure, GitHub Actions, REST APIs
 
 ---
 
 ## 🎯 What I'm Working On
 
-- Improving model monitoring and testing pipelines
-- Building end-to-end dashboards for real-time analytics
-- Exploring XGBoost, LLMs, and RAG-based architectures
+- Cloud-native deployments for ML systems (Docker + AWS)
+- Retrieval-Augmented Generation (RAG) pipelines with LLMs
 
 ---
 

@@ -8,7 +8,8 @@ My passion lies in software development, data analytics, and cloud technologies,
 
 ---
 ## 🔧 Featured Projects
-
+- 🔬 [**Cell Nuclei Segmentation**](https://github.com/Devanshu1503/Cell-Nuclei-Segmentation):  
+  Instance segmentation of cell nuclei in microscopy images using the pre-trained Cellpose model. Evaluated performance on 50 paired images with metrics (Precision, Recall, F1, Dice) and visual overlays.
 - 🏥 [**ER Wait Time Forecasting**](https://github.com/Devanshu1503/ER_Wait_Time_predictor):  
   Time series forecasting model for EMS dispatch wait times using XGBoost and NYC Open Data. Focused on healthcare analytics and model explainability.
 - 🚗 [Crash Rate Prediction](https://github.com/Devanshu1503/traffic-crash-predictor): Full-stack web app to predict crash rates using TensorFlow, FastAPI, and React.

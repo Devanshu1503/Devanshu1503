@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devanshu Khadka
 
-I'm a Master's student in Applied Data Science at the University of Chicago and a Computer Science and Computational Modeling graduate from Virginia Tech. I enjoy building data-driven systems and scalable applications that bridge software engineering, analytics, and cloud technologies.
+I'm a Master's student in Applied Data Science at the University of Chicago and a Computer Science and Computational Modeling and Data Analytics graduate from Virginia Tech. I enjoy building data-driven systems and scalable applications that bridge software engineering, analytics, and cloud technologies.
 
 Across academic, research, and internship experiences, I have worked on data pipelines, automation workflows, and full-stack applications. I focus on writing clean, reliable code and turning raw data into structured, usable insights that support real-world decisions.
 

@@ -10,13 +10,23 @@ Across academic, research, and internship experiences, I have worked on data pip
 ## 🔧 Featured Projects
 - 🔬 [**Cell Nuclei Segmentation**](https://github.com/Devanshu1503/Cell-Nuclei-Segmentation):  
   Instance segmentation of cell nuclei in microscopy images using the pre-trained Cellpose model. Evaluated performance on 50 paired images with metrics (Precision, Recall, F1, Dice) and visual overlays.
+
 - 🏥 [**ER Wait Time Forecasting**](https://github.com/Devanshu1503/ER_Wait_Time_predictor):  
   Time series forecasting model for EMS dispatch wait times using XGBoost and NYC Open Data. Focused on healthcare analytics and model explainability.
-- 🚗 [Crash Rate Prediction](https://github.com/Devanshu1503/traffic-crash-predictor): Full-stack web app to predict crash rates using TensorFlow, FastAPI, and React.
-- 🕊️ [AI Web Scraper for Parish Data](https://github.com/Devanshu1503/ai-web-scraper): ETL + LLM-powered scraper with Power BI dashboards for Catholic Leadership Institute.
-- 🌍 [Landslide Prediction](https://github.com/Devanshu1503/Landslide-Prediction): Tree-based classification model to predict landslide-prone regions using NASA GLC data.
 
+- ✈️ [**Airport Delay Forecasting**](https://github.com/Devanshu1503/airport-delay-forecasting):  
+  Time series forecasting of U.S. flight delays using SARIMA models, STL decomposition, and feature engineering on 26M+ flight records to analyze airport congestion dynamics.
+
+- 🚗 [Crash Rate Prediction](https://github.com/Devanshu1503/traffic-crash-predictor):  
+  Full-stack web app to predict crash rates using TensorFlow, FastAPI, and React.
+
+- 🕊️ [AI Web Scraper for Parish Data](https://github.com/Devanshu1503/ai-web-scraper):  
+  ETL + LLM-powered scraper with Power BI dashboards for Catholic Leadership Institute.
+
+- 🌍 [Landslide Prediction](https://github.com/Devanshu1503/Landslide-Prediction):  
+  Tree-based classification model to predict landslide-prone regions using NASA GLC data.
 ---
+
 
 ## 💻 Technical Skills
 

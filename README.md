@@ -8,6 +8,10 @@ Across academic, research, and internship experiences, I have worked on data pip
 
 ---
 ## 🔧 Featured Projects
+
+- 🧠 [**Anchor – AI Focus Companion**](https://github.com/Devanshu1503/Anchor):  
+  Real-time AI system that detects task drift using window activity + webcam signals, and delivers personalized interventions via an intelligent agent. Built with FastAPI, React, WebSockets, and multi-model reasoning (Markov chains + LLMs).
+  
 - 🔬 [**Cell Nuclei Segmentation**](https://github.com/Devanshu1503/Cell-Nuclei-Segmentation):  
   Instance segmentation of cell nuclei in microscopy images using the pre-trained Cellpose model. Evaluated performance on 50 paired images with metrics (Precision, Recall, F1, Dice) and visual overlays.
 

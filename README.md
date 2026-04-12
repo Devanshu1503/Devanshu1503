@@ -9,6 +9,9 @@ Across academic, research, and internship experiences, I have worked on data pip
 ---
 ## 🔧 Featured Projects
 
+- 🏙️ [**Oasis – Small Business Survival Intelligence**](https://github.com/Devanshu1503/Oasis):  
+  ML-powered platform predicting small business closure risk using XGBoost + SHAP explainability on Chicago open data. Features a 3D Mapbox dashboard, multilingual AI consultant (Gemini + Groq fallback), and voice-enabled insights with PDF reporting. Built with FastAPI, React, and deployed via Docker on DigitalOcean. WildHacks project.
+
 - 🧠 [**Anchor – AI Focus Companion**](https://github.com/Devanshu1503/Anchor):  
   Real-time AI system that detects task drift using window activity + webcam signals, and delivers personalized interventions via an intelligent agent. Built with FastAPI, React, WebSockets, and multi-model reasoning (Markov chains + LLMs). Yale Hackathon Project.
   

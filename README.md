@@ -4,7 +4,7 @@ I'm a Master's student in Applied Data Science at the University of Chicago and 
 
 Across academic, research, and internship experiences, I have worked on data pipelines, automation workflows, and full-stack applications. I focus on writing clean, reliable code and turning raw data into structured, usable insights that support real-world decisions.
 
-📫 **Actively seeking Summer 2026 internships** in Data Science, Data Engineering, or Cloud Architecture — [View my resume](https://github.com/Devanshu1503/resume/blob/main/Devanshu_Resume_Uchicago.pdf)
+📫 **Actively seeking Full time roles after graduating** in Data Science, Data Engineering, or Cloud Architecture — [View my resume](https://github.com/Devanshu1503/resume/blob/main/Devanshu_Resume_Uchicago.pdf)
 
 ---
 ## 🔧 Featured Projects

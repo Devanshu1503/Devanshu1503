@@ -14,6 +14,10 @@ Across academic, research, and internship experiences, I have worked on data pip
 
 - 🧠 [**Anchor – AI Focus Companion**](https://github.com/Devanshu1503/Anchor):  
   Real-time AI system that detects task drift using window activity + webcam signals, and delivers personalized interventions via an intelligent agent. Built with FastAPI, React, WebSockets, and multi-model reasoning (Markov chains + LLMs). Yale Hackathon Project.
+
+- 🏥 [**Clinical KG Extraction – UChicago AI+Science Hackathon**](https://github.com/Devanshu1503/AI-Science-Hackathon):  
+  Multi-agent pipeline extracting clinical knowledge graphs from doctor-patient transcripts. Built a 5-stage architecture (chunker, dual extractor, schema enforcer, critic, refiner) scoring 0.848 composite on 20 patients and 0.857 on unseen holdout data. Added Whisper-based audio timestamp tagging linking every KG node to the exact moment it was mentioned in the recording.
+
   
 - 🔬 [**Cell Nuclei Segmentation**](https://github.com/Devanshu1503/Cell-Nuclei-Segmentation):  
   Instance segmentation of cell nuclei in microscopy images using the pre-trained Cellpose model. Evaluated performance on 50 paired images with metrics (Precision, Recall, F1, Dice) and visual overlays.

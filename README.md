@@ -9,6 +9,9 @@ Across academic, research, and internship experiences, I have worked on data pip
 ---
 ## 🔧 Featured Projects
 
+- 🔴 [**AgentProbe – AI Red-Teaming Engine**](https://github.com/Devanshu1503/AgentProbe):  
+  Automated adversarial red-teaming platform for multi-agent AI workflows. Attacks live agent pipelines across 5 dimensions (injection, sandbagging, cascade, boundary, consistency) and scores reliability per agent. Built with FastAPI, React, Snowflake, and Anthropic API. Uncommon Hacks 2026.
+
 - 🏙️ [**Oasis – Small Business Survival Intelligence**](https://github.com/Devanshu1503/Oasis):  
   ML-powered platform predicting small business closure risk using XGBoost + SHAP explainability on Chicago open data. Features a 3D Mapbox dashboard, multilingual AI consultant (Gemini + Groq fallback), and voice-enabled insights with PDF reporting. Built with FastAPI, React, and deployed via Docker on DigitalOcean. WildHacks project.
 
